@@ -1,4 +1,4 @@
-# Food-Waste-Research-Data-Sources
+# Shopping Cart to Trashcan
 An analysis of Food Waste data I completed for Undergraduate Research. 
 I used data from the organization ReFED to better understand the causes of food waste in the residential sector of the United states. 
 All ReFED data can be found at the following webpage. Click the button that says “Download Data” to received .csv files. https://insights-engine.refed.org/food-waste-monitor  
