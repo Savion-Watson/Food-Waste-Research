@@ -4,7 +4,7 @@ I analyzed data from the organization ReFED to better understand the causes of f
 
 The analysis was done with Python using Sci-Kit learn and Pandas. View the jupyter notebook for more details 
 
-Full Research Paper:
+Full Research Paper: https://eportfolios.macaulay.cuny.edu/foodwasteresearch/
 
 All ReFED data can be found at the following webpage: https://insights-engine.refed.org/food-waste-monitor <br> 
 - Click the button that says “Download Data” to received .csv files. 
