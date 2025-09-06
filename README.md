@@ -4,6 +4,8 @@ I analyzed data from the organization ReFED to better understand the causes of f
 
 The analysis was done with Python using Sci-Kit learn and Pandas. View the jupyter notebook for more details 
 
+__Findings Summary__: https://github.com/Savion-Watson/Food-Waste-Research/blob/main/Conference%20Poster.pdf 
+
 __Data Analysis__: https://github.com/Savion-Watson/Food-Waste-Research/blob/main/Food%20Waste%20Data%20Analysis.ipynb <br>
 
 __Full Research Paper__: [https://eportfolios.macaulay.cuny.edu/foodwasteresearch/](https://github.com/Savion-Watson/Food-Waste-Research/blob/main/Food-Waste-Paper-Final-Copy-1.pdf)
