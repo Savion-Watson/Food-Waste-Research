@@ -6,7 +6,7 @@ The analysis was done with Python using Sci-Kit learn and Pandas. View the jupyt
 
 __Data Analysis__: https://github.com/Savion-Watson/Food-Waste-Research/blob/main/Food%20Waste%20Data%20Analysis.ipynb <br>
 
-__Full Research Paper__: https://eportfolios.macaulay.cuny.edu/foodwasteresearch/
+__Full Research Paper__: [https://eportfolios.macaulay.cuny.edu/foodwasteresearch/](https://github.com/Savion-Watson/Food-Waste-Research/blob/main/Food-Waste-Paper-Final-Copy-1.pdf)
 
 All ReFED data can be found at the following webpage: https://insights-engine.refed.org/food-waste-monitor <br> 
 - Click the button that says “Download Data” to received .csv files. 
